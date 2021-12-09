@@ -15,6 +15,7 @@ diaries = [
   HayasiDiary(),
   KatoDiary(),
   IchihashiDiary(),
+  TogawaDiary(),
 ] 
 
 for d in diaries:

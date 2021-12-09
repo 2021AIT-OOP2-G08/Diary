@@ -5,8 +5,7 @@ from diaries.RenDiary import RenDiary
 from diaries.HayasiDiary import HayasiDiary
 from diaries.KatoDiary import KatoDiary
 from diaries.IchihashiDiary import IchihashiDiary
-
-
+from diaries.TogawaDiary import TogawaDiary
 
 
 # ↓のリストには、メンバーの各日記が格納されます。
@@ -15,7 +14,6 @@ diaries = [
   RenDiary(),
   KameiDiary(),
   NaruseDiary(),
-  RenDiary(),
   HayasiDiary(),
   KatoDiary(),
   IchihashiDiary(),

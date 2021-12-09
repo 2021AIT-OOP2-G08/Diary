@@ -4,7 +4,7 @@ from diaries.RenDiary import RenDiary
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
   DiarySample(),
-  RenDiary(),
+  RenDiary()
 ] 
 
 for d in diaries:

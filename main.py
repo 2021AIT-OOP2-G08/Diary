@@ -3,6 +3,8 @@ from diaries.KameiDiary import KameiDiary
 from diaries.NaruseDiary import NaruseDiary
 from diaries.RenDiary import RenDiary
 
+
+
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
   DiarySample(),
